@@ -69,7 +69,7 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
-## Chapter-5: Prompt Engineering Resources:
+## Chapter-5 - Prompt Engineering Resources:
 
 **Prompt Engineering Tutorials and Resources:** <br>
 
@@ -113,7 +113,7 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
-## Chapter-6: DBMS and Oracle SQL Resources:
+## Chapter-6 - DBMS and Oracle SQL Resources:
 
 ### Oracle Tutorials:
 * **Oracle Tutorial:** https://www.oracletutorial.com/
@@ -131,7 +131,7 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
-## Chapter-7: MS-Power BI Resources:
+## Chapter-7 - MS-Power BI Resources:
 
 **Power BI Download and Tutorial Links:**<br>
 * **PowerBI Download Link:** https://www.microsoft.com/en-us/download/details.aspx?id=58494
